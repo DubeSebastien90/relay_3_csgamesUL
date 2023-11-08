@@ -1,1 +1,1 @@
-#je sais pas c'est quoi un fichier sh.... c'est ce qui est supposé run l'appli
+python application.py

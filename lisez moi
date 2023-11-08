@@ -1,6 +1,10 @@
-MEC LES GENS!
+Fonctionnalités:
+    Une phrase citant le nom du produit "Ideji" et un mot de type "b" est négative.
+    Une phrase citant le nom du produit "Ideji" et un mot de type "g" est positive.
+    Une phrase parlant du produit en utilisant un mot de type "s", précédé du
+        déterminant "Your" (Your product, Your software, Your application) et un mot de type
+        "s" est positive.
+    Un message qui ne contient pas de mot qui fait référence à votre logiciel est "not
+        related"
+    Une phrase contenant un mot de type "c" et un mot de type "b" est positive
 
-c'est ez en fait! je teste
-
-OK LE PROBLÈME C'EST QUE J'AI PAS ENLEVÉ LES POINTS DE LA PHRASE
-TU DOIS LE FAIRE
